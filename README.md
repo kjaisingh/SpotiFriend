@@ -12,6 +12,6 @@ SpotiFriend is an iOS application designed to assist a Spotify user with their d
 
 **App Interface**
 
-<img src="Resources/1.png" width="230"> <img src="Resources/2.png" width="230"> <img src="Resources/3.png" width="230">
-<img src="Resources/4.png" width="230"> <img src="Resources/5.png" width="230"> <img src="Resources/6.png" width="230">
-<img src="Resources/7.png" width="230"> <img src="Resources/8.png" width="230"> <img src="Resources/9.png" width="230">
+<img src="Resources/1.png" width="230" height="458"> <img src="Resources/2.png" width="230" height="458"> <img src="Resources/3.png" width="230" height="458">
+<img src="Resources/4.png" width="230" height="458"> <img src="Resources/5.png" width="230" height="458"> <img src="Resources/6.png" width="230" height="458">
+<img src="Resources/7.png" width="230" height="458"> <img src="Resources/8.png" width="230" height="458"> <img src="Resources/9.png" width="230" height="458">
