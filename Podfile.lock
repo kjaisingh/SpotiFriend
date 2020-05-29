@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireObjectMapper (5.2.0):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - AlamoRecord (1.2.2):
+    - AlamofireObjectMapper (~> 5.1)
+  - Charts (3.5.0):
+    - Charts/Core (= 3.5.0)
+  - Charts/Core (3.5.0)
+  - Cosmos (21.0.0)
+  - Kingfisher (4.10.1)
+  - ObjectMapper (3.5.1)
+  - Spartan (1.2.1):
+    - AlamoRecord (~> 1.2.0)
+  - SpotifyLogin (0.1.6)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Charts
+  - Cosmos
+  - Kingfisher
+  - Spartan
+  - SpotifyLogin (~> 0.1)
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - AlamoRecord
+    - Charts
+    - Cosmos
+    - Kingfisher
+    - ObjectMapper
+    - Spartan
+    - SpotifyLogin
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireObjectMapper: 92b6ce2423a9d159e686f6a1d514a009bf903ddc
+  AlamoRecord: 5850c563a811fdca40cd361b1b27622004bccef3
+  Charts: 40a08591df1f8ad5c223ddedfb1a06da92f24f7c
+  Cosmos: 3dfb6e4ba48bd48b8c9aa2a77048ae11ed114f96
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  Spartan: 2fb99ad25f2b0e8182799f251c800091977f0a40
+  SpotifyLogin: 9cdf82ff13e5f37e5ddc7fd07cf9793a9ebd1124
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: c44b05c1de90dae6ce154faa389eb90e11363ce7
+
+COCOAPODS: 1.9.1
