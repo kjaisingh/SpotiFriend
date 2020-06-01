@@ -1,7 +1,9 @@
 # SpotiFriend
 ### Your personal Spotify assistant.
 
-SpotiFriend is an iOS application designed to assist a Spotify user with their day-to-day use and management of their account. It's features include:
+SpotiFriend is an iOS application designed to assist a Spotify user with their day-to-day use and management of their account. 
+
+**Features**
 * Accessing recent and all-time personal top tracks.
 * Accessing recent and all-time personal top artists.
 * Analysing user playlists, providing statistics for the track metadata and figures indicating artist breakdowns.
